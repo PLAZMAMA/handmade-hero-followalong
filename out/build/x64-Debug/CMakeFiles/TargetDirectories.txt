@@ -1,0 +1,3 @@
+C:/Users/maori/src/handmade-hero-followalong/out/build/x64-Debug/CMakeFiles/win32.dir
+C:/Users/maori/src/handmade-hero-followalong/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/maori/src/handmade-hero-followalong/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
